@@ -1,7 +1,20 @@
 # DevOps Week 2
 
-Learning Git and GitHub.
+This repository was created as part of the DevOps Internship Week 2 assignment.
+
+## Topics Covered
+
+- Git Installation & Configuration
+- GitHub Repository Management
+- Git Workflow
+- Branching & Merging
+- README.md
+- .gitignore
 
 ## Author
 
-Ajay Kumar
+Ajay Kumar Vemula
+
+## Repository
+
+DevOps-Week02
